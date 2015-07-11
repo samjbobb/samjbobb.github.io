@@ -1,0 +1,8 @@
+# Site settings
+title: Samuel Bobb
+description: Projects and stuff
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sambobb.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
